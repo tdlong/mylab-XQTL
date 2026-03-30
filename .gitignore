@@ -1,0 +1,10 @@
+data/
+process/
+logs/
+figures/
+output/
+configs/
+*.tar
+*.tar.gz
+*.log
+.DS_Store
