@@ -8,3 +8,18 @@ configs/
 *.tar.gz
 *.log
 .DS_Store
+
+# ── universal (added by apply.sh) ──
+._*
+.Spotlight-V100
+.Trashes
+~$*
+*.tmp
+*.swp
+.~lock*
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+node_modules/
+.quarto/
